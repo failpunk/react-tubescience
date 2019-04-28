@@ -1,3 +1,8 @@
+The focus was strictly on the component architecture and not the actual design itself as I imagine this to be used inside a larger app of some sort.
+
+This assumes that data will be passed in and already available. In a larger app other components would be responsible for fetching and maintaining the app data.
+
+
 ## Available Scripts
 
 ### `yarn`
