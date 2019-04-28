@@ -1,0 +1,24 @@
+$color-primary: #fff;
+$color-secondary: #eee;
+
+.App {
+    background: $color-secondary;
+}
+
+.grayed-out {
+    background: $color-secondary;
+}
+
+.header-list, .content {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.is-clickable {
+    cursor: pointer;
+}
+
+.min-h2 {
+    min-height: 2.3rem;
+}
