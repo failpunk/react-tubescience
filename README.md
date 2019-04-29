@@ -2,6 +2,8 @@ The focus was strictly on the component architecture and not the actual design i
 
 This assumes that data will be passed in and already available. In a larger app other components would be responsible for fetching and maintaining the app data.
 
+I didn't implement any advanced state managemennt schemes such as Redux as the design did not require it. I beleive these patterns should not be introduced until a clear need arises.
+
 
 ## Available Scripts
 
